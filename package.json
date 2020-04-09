@@ -4,12 +4,17 @@
   "description": "\"Coaching Website Induction Classes\"",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
   },
   "repository": {
     "type": "git",
     "url": "git remote add origin https://github.com/pranjalpkp/induction.git"
   },
   "author": "Prashant Kumar",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
