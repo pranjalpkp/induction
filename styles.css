@@ -1,0 +1,40 @@
+body{
+    background-color: #8ca2cc;
+}
+.topbar{
+    background-color:green;
+    color: floralwhite;
+    font-family: 'Advent Pro', sans-serif;
+
+}
+#logo{
+    height: 100px;
+    width: 100px;
+
+}
+#topsocial{
+    padding-left: 2em;
+}
+#brand{
+    background-color: #4d543c;
+    font-family: 'Advent Pro', sans-serif;
+    color: #f0e7de;
+}
+.footer{
+    background-color: greenyellow;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+#menu{
+    background-color: #d5f5e3 ;
+}
+.nav-link{
+    color:  #3498db ;
+    font-family: 'Advent Pro',Lucida Console;
+    font-size: large;
+}
+#announcement{
+    background-color:  #a3e4d7 ;
+}
