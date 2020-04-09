@@ -1,0 +1,15 @@
+{
+  "name": "induction",
+  "version": "1.0.0",
+  "description": "\"Coaching Website Induction Classes\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/pranjalpkp/induction.git"
+  },
+  "author": "Prashant Kumar",
+  "license": "ISC"
+}
